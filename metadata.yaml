@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '41953'
     url: http://www.gutenberg.org/2009/agents/41953
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42963#The-Weird-OrientNine-Mystic-Tales
 gutenberg_issued: '2013-06-17'
 gutenberg_type: Text
 identifiers:
